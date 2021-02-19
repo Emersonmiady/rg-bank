@@ -54,7 +54,9 @@ Foram testados:
 
 ## 4. Resultados das métricas
 
-O melhor modelo foi o que teve melhor Recall, pelo menos quando utilizamos as regras de negócio.
+![](https://github.com/Emersonmiady/rg-bank/blob/main/img/models_description.png)
+
+O melhor modelo foi o que teve melhor Recall, pelo menos quando utilizamos as regras de negócio. Ou seja, foi a Árvore de Decisão!
 
 ## 5. Resultados de Negócio
 1. "O faturamento esperado pela empresa é igual a: 3.004.400.679,40, se considerarmos 1/4 das transações em 1 mês. Entretanto, se fossemos deduzir o quanto se aumenta, para 100% das transações mensais, temos a possibilidade de encontrar 3.76x esse valor!"
