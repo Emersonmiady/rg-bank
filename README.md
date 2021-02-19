@@ -23,7 +23,7 @@ No final, as seguintes perguntas relacionadas aos modelos de Machine Learning e 
 
 O cliente também queria uma **Análise Descritiva** dos dados.
 
-# Divisão de tarefas:
+# Divisão de tarefas
 - Eu: Pré-processamento dos Dados e Machine Learning;
 - Luis: Análise Exploratória dos Dados.
 
