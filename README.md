@@ -4,6 +4,7 @@ Este projeto foi proposto por nosso diretor de Estatística da ICMC Júnior, **R
 
 Por mais que seja uma situação fictícia, estava valendo a efetivação do meu parceiro de equipe, **Luís Miguel**, o qual ainda era Trainee.
 
+Observação: para melhorar a visualização de algumas imagens, por conta da resolução que foi comprometida, recomendo clicar em "Open in Colab", no começo do *notebook*.
 # Contexto
 ---
 A história, basicamente, era a de que um cliente nos procurava para criar uma *fintech* chamada **RGBank**, e seu objetivo principal era introduzir o serviço de **análise de riscos** para verificar a veracidade das informações, ou seja, se a transação foi fraudulenta ou legítima.
