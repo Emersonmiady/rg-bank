@@ -29,7 +29,7 @@ O cliente também queria uma **Análise Descritiva** dos dados.
 
 # Ferramentas utilizadas
 ---
-- Linguagem de programação *Python*;
+- Linguagem de programação Python;
 - Pacotes: pandas, numpy, datetime, matplotlib, seaborn, sklearn;
 - Notebook: Google Colaboratory.
 
@@ -41,6 +41,11 @@ O cliente também queria uma **Análise Descritiva** dos dados.
 
 ## 2. Análise Exploratória dos Dados
 Algumas visualizações que obtivemos estão abaixo:
+![](https://github.com/Emersonmiady/rg-bank/blob/main/img/montant.png?raw=true)
+![](https://github.com/Emersonmiady/rg-bank/blob/main/img/fraud_hour.png?raw=true)
+![](https://github.com/Emersonmiady/rg-bank/blob/main/img/fraud_day.png?raw=true)
+
+
 
 ## 3. Preparando para o ML
 Transformei as variáveis categóricas relevantes em *dummies*, depois dividi em 0.2 de teste e apliquei o `StandardScaler()` para a padronização dos dados, já que ultilizaríamos um modelo de Regressão Logística para a comparação de modelos.
